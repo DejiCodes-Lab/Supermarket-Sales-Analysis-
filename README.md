@@ -33,7 +33,7 @@ The features identified for the analysis are total number of sales per city, tot
 > Fig 2: Count Plot Showing Total Number of Sales per City
 
 ![Supermarket-4](https://github.com/user-attachments/assets/842066f8-c3d5-4b51-801e-5e3d1d7e0343)
-> Fig 3:Count Plot Showing Total Number of Sales by Payment Method
+> Fig 3: Count Plot Showing Total Number of Sales by Payment Method
 
 ![Supermarket-5](https://github.com/user-attachments/assets/6dc5e733-b8df-414a-801a-bb98cf012019)
 > Fig 4: Bar Plot Showing Average Rating per Product Line
